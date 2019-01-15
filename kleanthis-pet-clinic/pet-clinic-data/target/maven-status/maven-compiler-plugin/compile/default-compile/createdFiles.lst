@@ -1,0 +1,5 @@
+com\mitsioulis\kleanthispetclinic\model\Pet.class
+com\mitsioulis\kleanthispetclinic\model\Person.class
+com\mitsioulis\kleanthispetclinic\model\PetType.class
+com\mitsioulis\kleanthispetclinic\model\Vet.class
+com\mitsioulis\kleanthispetclinic\model\Owner.class
