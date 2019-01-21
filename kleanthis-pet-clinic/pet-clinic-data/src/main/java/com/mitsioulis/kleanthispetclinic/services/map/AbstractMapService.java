@@ -1,4 +1,4 @@
-package map;
+package com.mitsioulis.kleanthispetclinic.services.map;
 
 import java.util.HashMap;
 import java.util.HashSet;
