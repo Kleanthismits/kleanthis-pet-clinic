@@ -1,5 +1,14 @@
+com\mitsioulis\kleanthispetclinic\services\map\AbstractMapService.class
 com\mitsioulis\kleanthispetclinic\model\Pet.class
+com\mitsioulis\kleanthispetclinic\model\BaseEntity.class
+com\mitsioulis\kleanthispetclinic\services\PetService.class
+com\mitsioulis\kleanthispetclinic\services\map\OwnerServiceMap.class
+com\mitsioulis\kleanthispetclinic\services\map\VetServiceMap.class
 com\mitsioulis\kleanthispetclinic\model\Person.class
+com\mitsioulis\kleanthispetclinic\services\OwnerService.class
+com\mitsioulis\kleanthispetclinic\services\VetService.class
+com\mitsioulis\kleanthispetclinic\services\CrudService.class
+com\mitsioulis\kleanthispetclinic\model\Owner.class
+com\mitsioulis\kleanthispetclinic\services\map\PetServiceMap.class
 com\mitsioulis\kleanthispetclinic\model\PetType.class
 com\mitsioulis\kleanthispetclinic\model\Vet.class
-com\mitsioulis\kleanthispetclinic\model\Owner.class

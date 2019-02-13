@@ -1,5 +1,14 @@
-C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\model\Owner.java
 C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\model\Pet.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\services\CrudService.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\services\PetService.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\services\map\VetServiceMap.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\services\map\AbstractMapService.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\model\Owner.java
 C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\model\Vet.java
 C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\model\Person.java
 C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\model\PetType.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\model\BaseEntity.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\services\map\OwnerServiceMap.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\services\OwnerService.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\services\map\PetServiceMap.java
+C:\Users\klean\git\kleanthispetclinic\kleanthis-pet-clinic\pet-clinic-data\src\main\java\com\mitsioulis\kleanthispetclinic\services\VetService.java

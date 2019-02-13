@@ -1,1 +1,6 @@
+com\mitsioulis\kleanthispetclinic\controllers\OwnerController.class
+com\mitsioulis\kleanthispetclinic\bootstrap\DataLoader.class
+com\mitsioulis\kleanthispetclinic\controllers\IndexController.class
+com\mitsioulis\kleanthispetclinic\controllers\PetController.class
+com\mitsioulis\kleanthispetclinic\controllers\VetController.class
 com\mitsioulis\kleanthispetclinic\KleanthisPetClinicApplication.class
