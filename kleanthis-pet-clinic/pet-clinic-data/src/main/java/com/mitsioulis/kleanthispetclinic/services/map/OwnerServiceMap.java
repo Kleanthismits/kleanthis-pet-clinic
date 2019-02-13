@@ -4,9 +4,12 @@ package com.mitsioulis.kleanthispetclinic.services.map;
 
 import java.util.Set;
 
+import org.springframework.stereotype.Service;
+
 import com.mitsioulis.kleanthispetclinic.model.Owner;
 import com.mitsioulis.kleanthispetclinic.services.OwnerService;
 
+@Service
 public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService{
 
 	@Override
