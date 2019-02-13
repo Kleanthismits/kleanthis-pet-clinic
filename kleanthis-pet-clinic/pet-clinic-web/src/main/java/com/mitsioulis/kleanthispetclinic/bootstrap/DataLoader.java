@@ -1,0 +1,64 @@
+package com.mitsioulis.kleanthispetclinic.bootstrap;
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.stereotype.Component;
+
+import com.mitsioulis.kleanthispetclinic.model.Owner;
+import com.mitsioulis.kleanthispetclinic.model.Vet;
+import com.mitsioulis.kleanthispetclinic.services.OwnerService;
+import com.mitsioulis.kleanthispetclinic.services.VetService;
+import com.mitsioulis.kleanthispetclinic.services.map.OwnerServiceMap;
+import com.mitsioulis.kleanthispetclinic.services.map.VetServiceMap;
+
+@Component
+public class DataLoader implements CommandLineRunner{
+	
+	private  final OwnerService ownerService;
+	private  final VetService vetService;
+	
+	
+
+	public DataLoader() {
+		ownerService = new OwnerServiceMap();
+		vetService = new VetServiceMap();
+	}
+
+
+
+	@Override
+	public void run(String... args) throws Exception {
+		
+		Owner owner1 = new Owner();
+		owner1.setId(1L);
+		owner1.setFirstName("Kleanthis");
+		owner1.setLastName("Mitsioulis");
+		
+		ownerService.save(owner1);
+		
+		Owner owner2 = new Owner();
+		owner2.setId(2L);
+		owner2.setFirstName("Makis");
+		owner2.setLastName("Mitsioulis");
+		
+		ownerService.save(owner2);
+		
+		System.out.println("Loaded Owners");
+		
+		Vet vet1 = new Vet();
+		vet1.setId(1L);
+		vet1.setFirstName("Sofia");
+		vet1.setLastName("Naki");
+		
+		vetService.save(vet1);
+		
+		Vet vet2 = new Vet();
+		vet2.setId(2L);
+		vet2.setFirstName("Bill");
+		vet2.setLastName("Gakias");
+		
+		vetService.save(vet2);
+		
+		System.out.println("Loaded Vets");
+	}
+
+}
